@@ -1,2 +1,1 @@
-# klokovaas
-photosite portfolio
+# klokova.github.io
